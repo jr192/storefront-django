@@ -24,3 +24,6 @@ Industry Best Practices:
 - Documentation
 - Security: Implement security best practices to protect against common vulnerabilities and ensure data integrity.
 - Continuous Integration/Continuous Deployment (CI/CD): Automate testing and deployment processes to streamline development workflows.
+
+  TODO:
+  Dockerize the apllication to future deploys. 
