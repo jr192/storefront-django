@@ -107,8 +107,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'storefront3',
         'HOST': 'localhost',
-        'USER': 'root',
-        'PASSWORD': 'MyPassword'
+        'USER': '',
+        'PASSWORD': ''
     }
 }
 
@@ -184,10 +184,10 @@ EMAIL_HOST = 'localhost'
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 2525
-DEFAULT_FROM_EMAIL = 'from@moshbuy.com'
+DEFAULT_FROM_EMAIL = 'from@test.com'
 
 ADMINS = [
-    ('Mosh', 'admin@moshbuy.com')
+    ('admin', 'admin@mtest.com')
 ]
 
 
